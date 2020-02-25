@@ -447,13 +447,13 @@
    </profiles>
 
     <url>demopetclinic</url>
-    <distributionManangement>
+    <distributionManagement>
         <repository>
             <id>Repo</id>
             <name>Repo</name>
             <url>http://13.89.228.181:8081/nexus/content/repositories/Repo</url>
         </repository>
-     </distributionManangement>
+     </distributionManagement>
 </project>
 
 
